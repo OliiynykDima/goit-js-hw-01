@@ -5,3 +5,5 @@ while(input){
 	input = +prompt('Введите любое число');
 };
 alert(`Общая сумма чисел равна ${+total}`);
+
+console.log(Boolean("false"));
